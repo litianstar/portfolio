@@ -8,9 +8,9 @@
 var app = require('./app').init(4000);
 
 var locals = {
-        title: 		 'Node | Express | EJS | Boostrap',
+        title: 		 'Tian Li | JAVA | Mysql | PHP | Node | Express | EJS | Boostrap',
         description: 'A Node.js applicaton bootstrap using Express 3.x, EJS, Twitter Bootstrap, and CSS3',
-        author: 	 'C. Aaron Cois, Alexandre Collin',
+        author: 	 'Tian Li / Troy',
         _layoutFile: true
     };
 
